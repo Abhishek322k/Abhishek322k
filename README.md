@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishek_Kumar
-- 👀 I’m interested in webdevelopment, c++ , DSA/ Algorithm , Python & ML
-- 🌱 I’m currently learning java_script & React
-- 💞️ I’m looking to collaborate on webd projects
+- 👀 I’m interested in webdevelopment, JavaScript , React js, NodeJs 
+- 🌱 I’m currently working on mobile App development , React Native 
+- 💞️ I’m looking to collaborate on webd projects and Mobile projects
 - 📫 How to reach me abhi2002nova@gmail.com
 
 <!---
